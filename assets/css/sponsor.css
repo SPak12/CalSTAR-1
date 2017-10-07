@@ -241,6 +241,7 @@ body {
   object-position: top;
   /*display: none;*/
 }
+
 .sponsor3 {
   text-align: center;
   padding: 10px 0px;
@@ -263,8 +264,8 @@ body {
 }
 .sponsor4 img {
   position: relative;
-  width: 500px;
-  height: 50px;
+  width: auto;
+  height: 100px;
   z-index: 2;
   margin: 0 auto;
   object-fit: cover;
@@ -277,21 +278,6 @@ body {
   padding: 10px 0px;
 }
 .sponsor5 img {
-  position: relative;
-  width: auto;
-  height: 100px;
-  z-index: 2;
-  margin: 0 auto;
-  object-fit: cover;
-  object-position: top;
-  /*display: none;*/
-}
-
-.sponsor6 {
-  text-align: center;
-  padding: 10px 0px;
-}
-.sponsor6 img {
   position: relative;
   width: auto;
   height: 75px;
