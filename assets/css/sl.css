@@ -163,7 +163,7 @@ p:hover {
 #disabled {
   transform: none;
   transition: none;
-  font-weight: none;
+  font-weight: bold;
   pointer-events: none;
   color: darkred;
 }
