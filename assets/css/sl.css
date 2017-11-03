@@ -160,6 +160,14 @@ p:hover {
   cursor: pointer;
 }
 
+#disabled {
+  transform: none;
+  transition: none;
+  font-weight: none;
+  pointer-events: none;
+  color: darkred;
+}
+
 .msds {
   padding-top: 10px;
   padding-bottom: 10px;
